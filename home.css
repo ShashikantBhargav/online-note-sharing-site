@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h3{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#navbarNav{
+	background-color: ;
+  
+}
+
+#sh{
+	height: 50vh;
+	background-image: url(../image/textback2.webp);
+	background-position: center;
+	background-size: cover;
+	overflow-x: hidden;
+	position: relative;
+}
+h2{
+	text-align: center;
+	margin-top: 100px;
+	text-decoration-color: white;
+
+}
+h4{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.l1{
+  		height: 250px;
+      text-align: center;
+      margin-bottom: 60px;
+   
+
+  	}
+  	.l2{
+  		height: 250px;
+      text-align: center;
+     
+  	}
+
+	.l3{
+  		height: 250px;
+      text-align: center;
+     
+  		  	}
+
+  	.lg{
+  		height: 60px;
+  		
+  		text-align: center;
+  		font-size: 45px;
+  		padding-top: 1%;
+      font-style: italic;
+  	}
+  
+  .circle{
+    width: 220px;
+    height: 220px;
+    background-color: lightblue;
+    border-radius: 50%;
+    margin-left: 7em;
+    margin-top: 1em;
+   box-shadow: 0px 0px 20px 8px rgba(0,0,0,0.8);
+  }
+  .super{
+    width: 220px;
+    height: 110px;
+    border-radius: 125px 125px 0 0;
+  
+  
+  }
+
+   #mk{
+   	    margin: 30px auto;
+   	   display: block;
+   	   color: black;
+   	   width:100%;
+   	   height: 50px;
+       font-style: italic;
+      }
+
+   .tk li{
+   	display: inline-block;
+   	font-size: 28px;
+    line-height: 40px;
+    min-width: 50%;
+
+
+   }
+
+.footer {
+   position: fixed;
+   margin-top: 50px;
+   padding-top: 10px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
